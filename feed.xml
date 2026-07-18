@@ -3,14 +3,14 @@
     <title>Silver Fox Logistics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>2026-07-18T21:46:02+02:00</updated>
+    <updated>2026-07-18T22:45:20+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
     <id>https://silverfoxvtm.github.io</id>
 
     <entry>
-        <title>The mini game</title>
+        <title>The mini-game</title>
         <author>
             <name>Fera87</name>
         </author>
@@ -36,6 +36,13 @@
 <p data-start="707" data-end="839">The ultimate goal is to buy back planes. These planes start at $1,000,000, and the price of each subsequent plane increases tenfold.</p>
 <p data-start="841" data-end="958">Progress can be burned to reset the price of the planes, and the planes already purchased will remain in the account.</p>
 <p data-start="960" data-end="1034" data-is-last-node="" data-is-only-node="">Purchased planes can be used to receive various benefits in the main game.</p>
+<h1 data-start="960" data-end="1034">Where is the mini-game?<figure class="post__image post__image--right"><img loading="lazy"  src="https://silverfoxvtm.github.io/media/posts/7/mini2.png" alt="" width="225" height="400" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-xs.png 640w ,https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-sm.png 768w ,https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-md.png 1024w ,https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-lg.png 1366w ,https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-xl.png 1600w ,https://silverfoxvtm.github.io/media/posts/7/responsive/mini2-2xl.png 1920w"></figure></h1>
+<p>The game has a small icon in the top-left corner with a picture of a van on it.</p>
+<h1>Tips for playing</h1>
+<p class="isSelectedEnd">To increase your income, you can watch advertisements. Each ad doubles your income for 2 hours. This bonus can be stacked, so every ad adds an additional 2 hours to the duration. You can also watch an ad to receive a 1-hour bonus income boost.</p>
+<p class="isSelectedEnd">Once you buy a plane for $1M, it is best to reset the game. You can find the reset option under the flame icon in the bottom-right corner in the redeem menu.</p>
+<p class="isSelectedEnd">You do not need to pull too much. In my experience, it is enough to upgrade only the first truck to level 20, purchase the dispatcher, and let it generate income until you reach $1M. If you watch ads regularly, you can reach this level in about 3–4 hours.</p>
+<p>Income and upgrade costs are randomized. Start the truck by clicking or tapping until you earn enough money for the first upgrade. If the income does not reach $18 (with the double-income bonus active), it is best to reset the game immediately and start over. If you get $18 or more, continue upgrading until you reach  $50, buy the dispatcher, and then upgrade it from time to time until it reaches level 20.</p>
             ]]>
         </content>
     </entry>
