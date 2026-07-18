@@ -3,10 +3,62 @@
     <title>Silver Fox Logostics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-07-18T20:18:39+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
     <id>https://silverfoxvtm.github.io</id>
 
+    <entry>
+        <title>Test 2</title>
+        <author>
+            <name>Fera87</name>
+        </author>
+        <link href="https://silverfoxvtm.github.io/test-2.html"/>
+        <id>https://silverfoxvtm.github.io/test-2.html</id>
+
+        <updated>2026-07-18T20:17:24+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The Benefits of Working Remotely Remote work has become increasingly popular over the last decade, transforming the way people approach their careers. With advances in technology and communication tools, employees can now collaborate effectively from almost anywhere in the world. One of the biggest advantages&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="PDq2pG_selectionAnchorContainer" data-section-id="80ahhe" data-start="79" data-end="113">The Benefits of Working Remotely</h1>
+<p data-start="115" data-end="362">Remote work has become increasingly popular over the last decade, transforming the way people approach their careers. With advances in technology and communication tools, employees can now collaborate effectively from almost anywhere in the world.</p>
+<p data-start="364" data-end="648">One of the biggest advantages of remote work is flexibility. Employees often have greater control over their schedules, allowing them to balance professional responsibilities with personal commitments. This flexibility can lead to increased job satisfaction and improved productivity.</p>
+<p data-start="650" data-end="887">Another benefit is the reduction in commuting time. By eliminating daily travel to and from an office, workers can save both time and money. Many people use this extra time for exercise, hobbies, or spending time with family and friends.</p>
+<p data-start="889" data-end="1181">Companies can also benefit from remote work arrangements. Organizations gain access to a wider talent pool since they are no longer limited to hiring candidates within a specific geographic area. Additionally, businesses may reduce operational costs associated with maintaining office spaces.</p>
+<p data-start="1183" data-end="1483">However, remote work is not without challenges. Some employees may experience feelings of isolation, while others may struggle to separate work life from personal life. Establishing clear boundaries, maintaining regular communication, and creating a dedicated workspace can help address these issues.</p>
+<p data-start="1485" data-end="1740">As remote work continues to evolve, both employees and employers are discovering new ways to maximize its benefits while overcoming its challenges. For many, remote work is no longer just a temporary solution but a long-term approach to modern employment.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Fera87</name>
+        </author>
+        <link href="https://silverfoxvtm.github.io/test.html"/>
+        <id>https://silverfoxvtm.github.io/test.html</id>
+
+        <updated>2026-07-18T20:17:09+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The Benefits of Working Remotely Remote work has become increasingly popular over the last decade, transforming the way people approach their careers. With advances in technology and communication tools, employees can now collaborate effectively from almost anywhere in the world. One of the biggest advantages&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="PDq2pG_selectionAnchorContainer" data-section-id="80ahhe" data-start="79" data-end="113"><figure class="post__image"><img loading="lazy"  src="https://silverfoxvtm.github.io/media/posts/1/file_00000000e12c72439c8efe45cf8555bd.png" alt="" width="1536" height="1024" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-xs.png 640w ,https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-sm.png 768w ,https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-md.png 1024w ,https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-lg.png 1366w ,https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-xl.png 1600w ,https://silverfoxvtm.github.io/media/posts/1/responsive/file_00000000e12c72439c8efe45cf8555bd-2xl.png 1920w"></figure>The Benefits of Working Remotely</h1>
+<p data-start="115" data-end="362">Remote work has become increasingly popular over the last decade, transforming the way people approach their careers. With advances in technology and communication tools, employees can now collaborate effectively from almost anywhere in the world.</p>
+<p data-start="364" data-end="648">One of the biggest advantages of remote work is flexibility. Employees often have greater control over their schedules, allowing them to balance professional responsibilities with personal commitments. This flexibility can lead to increased job satisfaction and improved productivity.</p>
+<p data-start="650" data-end="887">Another benefit is the reduction in commuting time. By eliminating daily travel to and from an office, workers can save both time and money. Many people use this extra time for exercise, hobbies, or spending time with family and friends.</p>
+<p data-start="889" data-end="1181">Companies can also benefit from remote work arrangements. Organizations gain access to a wider talent pool since they are no longer limited to hiring candidates within a specific geographic area. Additionally, businesses may reduce operational costs associated with maintaining office spaces.</p>
+<p data-start="1183" data-end="1483">However, remote work is not without challenges. Some employees may experience feelings of isolation, while others may struggle to separate work life from personal life. Establishing clear boundaries, maintaining regular communication, and creating a dedicated workspace can help address these issues.</p>
+<p data-start="1485" data-end="1740">As remote work continues to evolve, both employees and employers are discovering new ways to maximize its benefits while overcoming its challenges. For many, remote work is no longer just a temporary solution but a long-term approach to modern employment.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
