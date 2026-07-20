@@ -3,7 +3,7 @@
     <title>Silver Fox Logistics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>2026-07-19T00:14:01+02:00</updated>
+    <updated>2026-07-20T14:23:59+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
@@ -33,7 +33,19 @@
 <h1>Who should build it?</h1>
 <p>Every player who want to play with other has to build the Partnership building to level 1. Only the Partnership keeper has to upgrade it in order to expand the Partnership and to be able to have more members.</p>
 <h1>Partnership page</h1>
-<p>In this page you can upgrade the building and join to the Monopolis event. Monopolis is the map on the bottom, about this you can read in another post.</p>
+<p>On this page, you can upgrade the building and join to the Monopolis event. Monopolis is the map on the bottom, about this you can read in another post.</p>
+<h1>Season page</h1>
+<p>On this page, you can see a list of awards that the Partnership can earn after reaching certain production milestones. When you qualify for an award, you can claim it. The award must be claimed before the end of the season; otherwise, it will be lost when the new season starts.</p>
+<h1>Members page</h1>
+<p>On this page, you can see the members of the Partnership. You can view each member's level, the number of trucks they own, and the points they have earned during the current season. If you have permission to manage members, you can do so from this page.</p>
+<h1>Wildcards page</h1>
+<p>On this page, you can see the wildcards that can boost the Partnership's XP. Wildcards can be earned as seasonal rewards and donated by members. Once enough wildcards have been donated, the booster can be activated.</p>
+<h1>Contracts</h1>
+<p>On this page, you can see the contracts won by the Partnership. At the top, you can view the active contracts, while completed and failed contracts are displayed at the bottom.<br><br>For each active contract, you can see the loading and unloading cities, the name of the cargo, and the trailer types that can be used for the contract. The contract details show the total amount of cargo required and the percentage that has already been completed.<br><br>Below this information, you can see the reward for completing the contract and the penalties that apply if the contract fails. You can also view the remaining time available to complete the contract and the distance between the two cities.<br><br>At the bottom of each contract panel, there is a progress bar with two buttons. The left button displays a list of members currently working on the contract, along with the number of trucks they have assigned to it. The right button shows a list of members working on the contract and the amount of cargo they have delivered so far.</p>
+<h1>Auction</h1>
+<p>On this page, you can see the auctions that are currently available. The auction panels are similar to the contract panels, with a <strong>Bid</strong> button at the bottom.</p>
+<p>Each auction has an <strong>Open In</strong> timer. When the timer reaches zero, the Partnership that placed the last bid wins the auction and can start working on the contract.</p>
+<p><strong>Tip:</strong> Currently, most Partnerships wait until the final moments of an auction before placing their bids. If you bid too early, another Partnership will likely outbid you. For the best chance of winning, try to be online during the last few seconds of the auction, monitor the bidding activity, and place your bid at the right moment.</p>
 <p> </p>
             ]]>
         </content>
