@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://silverfoxvtm.github.io/cafe.html",
+            "url": "https://silverfoxvtm.github.io/cafe.html",
+            "title": "Café",
+            "summary": "Empty",
+            "content_html": "<p>Empty</p>",
+            "author": {
+                "name": "Fera87"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-20T15:49:52+02:00",
+            "date_modified": "2026-07-20T15:49:52+02:00"
+        },
+        {
             "id": "https://silverfoxvtm.github.io/partnership-building.html",
             "url": "https://silverfoxvtm.github.io/partnership-building.html",
             "title": "Partnership Building",

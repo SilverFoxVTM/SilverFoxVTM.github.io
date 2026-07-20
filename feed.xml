@@ -3,12 +3,32 @@
     <title>Silver Fox Logistics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>2026-07-20T14:23:59+02:00</updated>
+    <updated>2026-07-20T15:49:52+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
     <id>https://silverfoxvtm.github.io</id>
 
+    <entry>
+        <title>Café</title>
+        <author>
+            <name>Fera87</name>
+        </author>
+        <link href="https://silverfoxvtm.github.io/cafe.html"/>
+        <id>https://silverfoxvtm.github.io/cafe.html</id>
+
+        <updated>2026-07-20T15:49:52+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Empty
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Empty</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Partnership Building</title>
         <author>
