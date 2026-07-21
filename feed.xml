@@ -3,12 +3,59 @@
     <title>Silver Fox Logistics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>2026-07-21T15:29:36+02:00</updated>
+    <updated>2026-07-21T17:53:26+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
     <id>https://silverfoxvtm.github.io</id>
 
+    <entry>
+        <title>Monopolies</title>
+        <author>
+            <name>Fera87</name>
+        </author>
+        <link href="https://silverfoxvtm.github.io/monopolies.html"/>
+        <id>https://silverfoxvtm.github.io/monopolies.html</id>
+
+        <updated>2026-07-21T17:53:26+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    What is Monopolis? Monopolis is an activity in which partnerships have the possibility to monopolize transports in the countries they operate. After the event begins, groups of 3–6 partnerships will be formed, and the members of the partnerships will have to establish monopolies on the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="PDq2pG_selectionAnchorContainer" data-section-id="ogr3ib" data-start="115" data-end="135">What is Monopolis?</h1>
+<p data-start="137" data-end="260">Monopolis is an activity in which partnerships have the possibility to monopolize transports in the countries they operate.</p>
+<p data-start="262" data-end="464">After the event begins, groups of <strong data-start="296" data-end="316">3–6 partnerships</strong> will be formed, and the members of the partnerships will have to establish monopolies on the countries from the continent they are associated with.</p>
+<p data-start="466" data-end="544">The teams of partnerships will be randomly chosen from within the same league.</p>
+<hr data-start="546" data-end="549">
+<h1 data-section-id="6hb3u1" data-start="551" data-end="570">What are Leagues?</h1>
+<p data-start="572" data-end="658">Leagues represent the ranking of partnerships based on the points earned in Monopolis.</p>
+<p data-start="660" data-end="841">If there aren't at least <strong data-start="685" data-end="703">3 partnerships</strong> registered in a higher league, they will move down to the lower league until the minimum number of partnerships for participation is met.</p>
+<hr data-start="843" data-end="846">
+<h1 data-section-id="hf7k1d" data-start="848" data-end="875">How is the map organized?</h1>
+<p data-start="877" data-end="949">Each partnership will be randomly assigned a base in a specific country.</p>
+<p data-start="951" data-end="1120">Depending on the league the participating partnerships are in, they will need to obtain a score, which can be increased through local transports to establish a monopoly.</p>
+<p data-start="1122" data-end="1217">Once the required transports have been completed, a monopoly will be established in that state.</p>
+<hr data-start="1219" data-end="1222">
+<h1 data-section-id="n2ez20" data-start="1224" data-end="1279">What happens to the states where you have a monopoly?</h1>
+<p data-start="1281" data-end="1347">The state where your base is located will be unoccupied by anyone.</p>
+<p data-start="1349" data-end="1527">After the monopoly is established, no partnership will be able to load monopoly transports from that state for the next <strong data-start="1469" data-end="1480">6 hours</strong> (thus, the monopoly is protected for 6 hours).</p>
+<p data-start="1529" data-end="1671">After the protection expires, any other partnership can establish a monopoly on the state as long as it has a monopoly in a neighboring state.</p>
+<hr data-start="1673" data-end="1676">
+<h1 data-section-id="qdj2bh" data-start="1678" data-end="1719">How will the transports be carried out?</h1>
+<p data-start="1721" data-end="1973">The transports will be strictly <strong data-start="1753" data-end="1762">local</strong>, not international. Thus, the countries that can be occupied must have at least <strong data-start="1843" data-end="1855">3 cities</strong>. States with fewer than 3 cities (e.g. Luxembourg) cannot be occupied, as there are no local transport possibilities.</p>
+<p data-start="1975" data-end="2196">Each partnership will have individual transports, and the contracts will only be available to one partnership. Another partnership trying to establish a monopoly in the same state will have separate transports to perform.</p>
+<hr data-start="2198" data-end="2201">
+<h1 data-section-id="1ocb13q" data-start="2203" data-end="2230">What is the stress level?</h1>
+<p data-start="2232" data-end="2363">This indicates your company's stress level in monopoly transports and does not affect any other transports (normal or partnership).</p>
+<p data-start="2365" data-end="2682">The stress level increases with each transport loaded in each truck, and this will cause the drivers doing monopoly transports to get tired faster, until the point where transports are no longer profitable for a player, and all members of the partnership will need to be influenced to participate in these transports.</p>
+<p data-start="2684" data-end="2750">The stress index will be reset every <strong data-start="2721" data-end="2733">24 hours</strong> for all players.</p>
+<p data-start="2752" data-end="2813" data-is-last-node="" data-is-only-node="">Certain upgrades may reduce the frequency of stress increase.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dispatcher</title>
         <author>
