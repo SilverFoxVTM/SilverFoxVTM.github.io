@@ -3,7 +3,7 @@
     <title>Silver Fox Logistics - Vitrual Truck Manager 3</title>
     <link href="https://silverfoxvtm.github.io/feed.xml" rel="self" />
     <link href="https://silverfoxvtm.github.io" />
-    <updated>2026-07-21T17:53:26+02:00</updated>
+    <updated>2026-07-21T19:41:35+02:00</updated>
     <author>
         <name>Fera87</name>
     </author>
@@ -79,8 +79,26 @@
         <media:content url="https://silverfoxvtm.github.io/media/posts/13/Bank.png" medium="image" />
 
         <updated>2026-07-20T23:40:04+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://silverfoxvtm.github.io/media/posts/13/Bank.png" alt="" />
+                    What is the bank? The name might make you think that you can borrow money from the bank, but unfortunately, the bank doesn't lend you any money—it only takes it! The higher the level of this building, the lower the taxes and leasing costs you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://silverfoxvtm.github.io/media/posts/13/Bank.png" class="type:primaryImage" alt="" /></p>
+                <h1><figure class="post__image post__image--left"><img loading="lazy"  src="https://silverfoxvtm.github.io/media/posts/13/Screenshot-2026-07-20-224216.png" alt="" width="191" height="188" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-xs.png 640w ,https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-sm.png 768w ,https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-md.png 1024w ,https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-lg.png 1366w ,https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-xl.png 1600w ,https://silverfoxvtm.github.io/media/posts/13/responsive/Screenshot-2026-07-20-224216-2xl.png 1920w"></figure>What is the bank?</h1>
+<p class="isSelectedEnd">The name might make you think that you can borrow money from the bank, but unfortunately, the bank doesn't lend you any money—it only takes it!</p>
+<p>The higher the level of this building, the lower the taxes and leasing costs you have to pay.</p>
+<h1>Tax page</h1>
+<p>Every week, you must pay taxes. As your company grows, the amount of tax you have to pay will also increase.<br><br>On this page, you can see how much tax you owe and when it is due. When the payment deadline arrives, this is the page where you must pay your taxes.<br><br>Until your taxes have been paid, you cannot assign your trucks to new routes. Trucks that are already on a route can complete their current deliveries, but they cannot be dispatched on a new route until the taxes have been settled.</p>
+<h1>Leasing page</h1>
+<p>If you are leasing any trucks or trailers, they will be listed on this page.</p>
+<p>Lease payments are made automatically every day, but you can use this page to repay your leases early. Early repayment reduces the remaining interest by <strong>50%</strong>.</p>
+<p>If you have leased trucks, the page will display the truck leases by default. You can switch to the trailer lease list using the button in the top-left corner. If you only have leased trailers, the trailer lease list will be displayed automatically.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Garage</title>
